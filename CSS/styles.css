@@ -88,6 +88,24 @@ hr {
 
 }
 
+.profile-stats {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.profile-stats table {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-spacing: 40px 0;
+}
+
+.stats-names {
+    font-size: 10px;
+    text-align: center;
+    color: hsl(227, 10%, 46%);
+    letter-spacing: 1px;
+}
 
 /* Tag Selectors */
 

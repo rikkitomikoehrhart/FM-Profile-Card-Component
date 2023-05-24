@@ -24,7 +24,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [https://github.com/rikkitomikoehrhart/FM-Profile-Card-Component](https://github.com/rikkitomikoehrhart/FM-Profile-Card-Component)
-- Live Site URL: [https://rikkitomikoehrhart.github.io/FM-Order-Summary-Component](https://rikkitomikoehrhart.github.io/FM-Order-Summary-Component)
+- Live Site URL: [https://rikkitomikoehrhart.github.io/FM-Profile-Card-Component](https://rikkitomikoehrhart.github.io/FM-Profile-Card-Component)
 
 ## My process
 
